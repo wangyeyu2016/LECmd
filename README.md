@@ -1,4 +1,5 @@
-# LECmd
+# Link计算SID
+## LECmd
 
 Lnk Explorer Command line edition!!
 
